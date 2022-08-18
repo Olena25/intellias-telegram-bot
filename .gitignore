@@ -1,0 +1,10 @@
+.idea
+.iws
+.iml
+.ipr
+target
+.DS_STORE /src/main/resources/log
+hs_err_pid6096.log
+hs_err_pid8088.log
+replay_pid6096.log
+replay_pid8088.log
